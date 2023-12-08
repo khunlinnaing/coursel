@@ -1,0 +1,36 @@
+{
+    "sliders": [
+        {
+            "src": "/upload/1.jpg",
+            "alt": "Image 1"
+        },
+        {
+            "src": "/upload/2.jpg",
+            "alt": "Image 2"
+        },
+        {
+            "src": "/upload/3.jpg",
+            "alt": "Image 3"
+        },
+        {
+            "src": "/upload/4.jpg",
+            "alt": "Image 4"
+        },
+        {
+            "src": "/upload/5.jpg",
+            "alt": "Image 5"
+        },
+        {
+            "src": "/upload/6.jpg",
+            "alt": "Image 6"
+        },
+        {
+            "src": "/upload/7.jpg",
+            "alt": "Image 7"
+        },
+        {
+            "src": "/upload/8.jpg",
+            "alt": "Image 8"
+        }
+    ]
+}
